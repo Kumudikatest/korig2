@@ -11,7 +11,7 @@
         "isRemovable": true,
         "filePath": "korig.js",
         "cursor": {
-          "lineNumber": 2,
+          "lineNumber": 3,
           "column": 15
         },
         "config": {
@@ -57,7 +57,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1591697671092
+    "lastSave": 1591698894829
   },
   "VCS_STATE": {
     "provider": "GitHub",
